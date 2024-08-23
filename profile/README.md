@@ -8,6 +8,12 @@ Our scientific focus of interest lies in the field of microbiology, gut microbio
 [![iljapopov17@gmail.com](https://img.shields.io/badge/iljapopov17@gmail.com--brightgreen?style=social&logo=gmail)](mailto:iljapopov17@gmail.com)
 [![doc.igor.popov@gmail.com](https://img.shields.io/badge/doc.igor.popov@gmail.com--brightgreen?style=social&logo=gmail)](mailto:doc.igor.popov@gmail.com)
 
+<!--
+|![85253963](https://github.com/user-attachments/assets/b510ef07-d4ad-4fa3-8453-59b18826fae9)|![72817562](https://github.com/user-attachments/assets/d000065b-bd4a-4dac-876e-a5a47471d9f0)|
+|-|-|
+|**Ilia Popov**|**Igor Popov**|
+|[![iljapopov17@gmail.com](https://img.shields.io/badge/iljapopov17@gmail.com--brightgreen?style=social&logo=gmail)](mailto:iljapopov17@gmail.com)|[![doc.igor.popov@gmail.com](https://img.shields.io/badge/doc.igor.popov@gmail.com--brightgreen?style=social&logo=gmail)](mailto:doc.igor.popov@gmail.com)|
+-->
 
 <!--
 
